@@ -1,5 +1,6 @@
 # Build Log
 
+>The Malibu isn’t an obvious choice, it’s deliberately inconvenient. A car wrapped in proprietary systems, digital locks, and engineering meant to keep people out. Every modification is an act of defiance against a design built to discourage modification. It’s not about chasing speed or trends; it’s about proving that even something meant to be untouchable can be reimagined. The challenge is the point.
 
 ---
 
@@ -51,6 +52,8 @@
 | Engine / Tuning | Replace Belt, Belt Tensioner, and Bolt                                      | OEM / Aftermarket                                  |
 | Exhaust         | Cat-Back Exhaust System                                                     | Custom / Stainless Steel                           |
 | Exhaust         | Titanium Exhaust Tips                                                       | Valvetronic                                        |
+| Exhaust         | Muffler Switch Door                                                         | Valvetronic                                        |
+| Exterior        | Paint Rear Control Arms Dark bronze                                         | Custom                                             |
 | Exterior        | Black Lug Nuts                                                              | Amazon                                             |
 | Exterior        | Fix Dents and Scratches                                                     | Custom                                             |
 | Exterior        | Mud Flaps                                                                   | Ebay                                               |
