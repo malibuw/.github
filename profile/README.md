@@ -37,7 +37,7 @@
 | Exterior        | Window Tint – 5% (rear & back sides), 35% (front)                                        | —                          | ✅ Installed |
 | Interior        | OEM Leather Seat Upgrade                                                                 | OEM                        | ✅ Installed |
 | Electronics     | Uniden R7 Radar Detector                                                                 | Uniden                     | ✅ Installed |
-| Fluids / Misc.  | Engine Oil: 0W-30 Valvoline Restore and Protect                                          | Valvoline                  | ✅ In Use |
+| Fluids / Misc.  | Engine Oil: 0W-30/5W-30 Mix Valvoline Restore and Protect                                | Valvoline                  | ✅ In Use |
 
 ---
 
