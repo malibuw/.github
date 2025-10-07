@@ -80,6 +80,8 @@
 | Interior        | Custom Steering Wheel with Embedded Gauges                                  | Custom Fabrication                                 |
 | Interior        | Alcantara Headliner with Star Lighting                                      | Custom                                             |
 | Interior        | Paint Interior Trim Black                                                   | Custom                                             |
+| Interior        | Hud Driver / Hud Passenger                                                  | Custom                                             |
+| Interior        | Mini Cooper Display Rear Center Console                                     | Custom                                             |
 | Interior        | Add Back Vent Fan                                                           | Custom Retrofit                                    |
 | Electrical      | Upgraded Alternator                                                         | High Output                                        |
 | Electrical      | Two Relay Stations (Cabin + Engine Compartment)                             | Custom Wiring Setup                                |
