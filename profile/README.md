@@ -20,7 +20,7 @@
 
 ## Current Modifications
 
-| Category        | Item / Description                                                                      | Brand / Source            | Status  |
+| Category        | Item / Description                                                                       | Brand / Source             | Status  |
 |-----------------|------------------------------------------------------------------------------------------|----------------------------|----------|
 | Performance     | Cold Air Intake                                                                          | K&N                        | ✅ Installed |
 | Performance     | Diverter BOV Purge                                                                       | Super Cruzes               | ✅ Installed |
@@ -30,21 +30,30 @@
 | Performance     | Slotted/Drilled Brake Rotors                                                             | Power Stop                 | ✅ Installed |
 | Suspension      | R9-HS2-101 Hyper-Street 2 Coilovers                                                      | Rev9                       | ✅ Installed |
 | Suspension      | Adjustable Rear Toe Control Arm (Spherical Bearing)                                      | Godspeed                   | ✅ Installed |
-| Lighting        | Projector Headlights w/ Sequential Switchback LED Turn Signals (2019–2024 fit)          | Spec-D                     | ✅ Installed |
+| Lighting        | Projector Headlights w/ Sequential Switchback LED Turn Signals (2019–2024 fit)           | Spec-D                     | ✅ Installed |
 | Lighting        | Custom DRL w/ Sequential LED Turn Signals                                                | Custom                     | ✅ Installed |
 | Lighting        | LED License Plate Lights                                                                 | —                          | ✅ Installed |
 | Exterior        | Rear Spoiler Tail Trunk Lip Wing Bar                                                     | —                          | ✅ Installed |
 | Exterior        | Window Tint – 5% (rear & back sides), 35% (front)                                        | —                          | ✅ Installed |
 | Interior        | OEM Leather Seat Upgrade                                                                 | OEM                        | ✅ Installed |
 | Electronics     | Uniden R7 Radar Detector                                                                 | Uniden                     | ✅ Installed |
-| Fluids / Misc.  | Engine Oil: 0W-30/5W-30 Mix Valvoline Restore and Protect                                | Valvoline                  | ✅ In Use |
+
+---
+
+### Engine Oil
+
+| Component                                    | Product                                     | Amount            | Purpose (Physics/Math Insight)                                                                 |
+|---------------------------------------------|---------------------------------------------|-------------------|-----------------------------------------------------------------------------------------------|
+| Restore & Protect Full Synthetic 0W-20      | Valvoline Restore & Protect                 | 4.2 qt            | Active Clean removes deposits (lowers \(K\) in Archard eq. by 10-20%); HTHS boosts \(h_{\min}\) ~5% for turbo shear; VI stabilizes \(\eta\) in 250°F heat (Re~2,800 for flow). |
+| Anti-Friction Additive (Post-First OCI)     | Liqui Moly MoS2                             | 150 mL (½ bottle) | Reduces \(\mu_f\) by 15%, cutting \(Q = \tau A v\) heat; complements R&P's cleaners for 222K-mile wear protection. |
+| **Total Fill**                              | —                                           | ≈4.2 qt (4.0 L)   | Optimizes lubrication (\(\tau, h_{\min}\)), thermal (\(q, \Delta T\)), and cleaning for modded turbo in heat. |
 
 ---
 
 ## Planned Upgrades
 
 | Category        | Planned Item / Description                                                  | Brand / Source / Notes                             |
-|-----------------|------------------------------------------------------------------------------|----------------------------------------------------|
+|-----------------|-----------------------------------------------------------------------------|----------------------------------------------------|
 | Engine / Tuning | Custom Tune via OBDLink MX+ using Gauge Custom Software                     | OBDLink MX+ / Custom Software                      |
 | Engine / Tuning | Bigger Turbo Upgrade                                                        | TBD – targeting power increase                     |
 | Engine / Tuning | Seafoam Engine Treatment                                                    | Seafoam                                            |
